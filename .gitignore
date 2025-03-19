@@ -46,5 +46,8 @@ webpack.config.js
 # Ignore Zone.Identifier files
 *:Zone.Identifier
 
+dfx.json
+
+tsconfig.json
 
 package-lock.json
